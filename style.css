@@ -1,0 +1,16 @@
+*{
+  text-align: center;
+  padding: 10px;
+  margin:auto;
+  background:lightblue;
+  font:12px;
+  font-family: cursive;
+
+
+}
+#current-weather{
+  text-shadow: 1px 1px 1px turquoise, 2px 2px 1px turquoise;
+}
+body{
+  min-width:350px;
+}

@@ -1,0 +1,12 @@
+{
+  "name":"Weather Report",
+  "version": "1.0.0",
+  "manifest_version":3,
+   "description":"give you the weather for tomorrow",
+  "author":"William Zeng",
+  "permissions": ["activeTab", "navigator","geolocation"],
+  "action":{
+    "default_popup":"popup.html",
+    "default_title":"Weather report"
+  }
+}
